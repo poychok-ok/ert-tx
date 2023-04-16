@@ -1,0 +1,244 @@
+.container_header{
+	display: flex;
+	max-width:600px;
+	margin: 0 auto;
+}
+.logo {
+	font-family: 'Revalia';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 48px;
+	color: #34547A;
+}
+.nav_list {
+	display:flex;
+	list-style: none;
+}
+.nav_aiton{
+	margin-right: 20px;
+}
+.nav{
+	margin: auto 0;
+}
+.nav_link{
+	text-decoration: none;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 500;
+	color: #34547A;
+}
+.header{
+	background: #EEEFF1;
+	text-align: center;
+
+}
+.hero_bloki{
+	background: #EEEFF1;
+
+}
+
+.hero_bloki_title{
+	font-family: 'Roboto';
+
+	font-style: normal;
+	font-weight: 500;
+	font-size: 48px;
+	color: #34547A;
+}
+.hero_bloki_tex{
+	font-family: 'Roboto';
+	font-style:400;
+	font-size: 16px;
+	line-height: 26px;
+	color: #34547A;
+}
+.hero_bloki_btn{
+	background: #34547A;
+	border-radius: 1000px;
+	width: 225px;
+	height: 65px;
+
+}
+.container_hero-blok{
+	padding: 90px 0px;
+	display: flex;
+	justify-content: center;
+}
+.hero_bloki_img{
+	margin-right: auto;
+	width: 306px;
+	height: 233px;
+	margin: auto auto auto 0;
+	margin-right: 98px;
+
+}
+.hero_bloki_contents{
+	width: 665px;
+}
+.hero_bloki_tex{
+	word-break:break-word;
+}
+.about_tittle{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 32px;
+	line-height: 38px;
+	text-align: center;
+}
+.sfd{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+	text-align: center;
+
+}
+
+
+.zeloniy_tractar{
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+}
+.about_content{
+
+	text-align: center;
+	max-width: 1000px;
+
+	
+	display: flex;
+	justify-content:center;
+
+}
+
+.SLLIKS1{
+	height: 30px;
+	background-color: #C4C4C4;
+	width: 300px;
+
+}
+.SLLIKS2{
+	height: 30px;
+	background-color: #C4C4C4;
+	width: 300px;
+
+}
+.SLLIKS3{
+	height: 30px;
+	background-color: #C4C4C4;
+	width: 300px;
+
+}
+.SLLIKS_3{
+	height: 30PX;
+	background-color: #34547A;
+	width: 40%;
+}
+.SLLIKS_1{
+	height: 30PX;
+	background-color: #34547A;
+	width: 20%;
+}
+.SLLIKS_2{
+	height: 30PX;
+	background-color: #34547A;
+	width: 100%;
+}
+.qwq{
+	width: 500px;
+}
+.skills_skills {
+	list-style: none;
+
+}
+.tr1{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 30px;
+	text-align: center;
+	padding-bottom: 22px;
+
+
+}
+.weq{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 26px;
+	text-align: center;
+	padding-bottom: 22px;
+
+}
+.cn_tr{
+
+	padding-top: 114px;
+	padding-bottom: 224px;
+
+	text-align: center;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-size: 16px;
+	line-height: 26px;
+	text-align: center;
+
+}
+
+.ghj{
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	
+}
+.galariItm {
+	width: 25%;
+}
+
+.cvf{
+	width:100%;
+}
+.q123q{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 21px;
+	line-height: 25px;
+}
+.q1232q{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 21px;
+	line-height: 25px;
+}
+.footer{
+	background: #34547A;
+
+}
+.tuh{
+	list-style: none;
+	display: flex;
+}
+.footer_aplle{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.tuhyre{
+	padding: 25px;
+}
+.container_about{
+	padding-top: 114px;
+	padding-bottom: 114px;
+
+}
+.container_hero-blok{
+
+}
